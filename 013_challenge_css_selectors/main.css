@@ -1,0 +1,33 @@
+body {
+  background-color: blue;
+}
+div {
+  background-color: green;
+  border: 5px black solid;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  color: blue;
+  font-size: 28px;
+}
+h2 {
+  color: red;
+  font-size: 28px;
+}
+img {
+  height: 100px;
+  width: 200px;
+  border-radius: 100%;
+  border: 20px yellow groove;
+  display: block;
+  margin: 0 auto;
+}
+section {
+  margin: 20px 0px;
+}
+/* div > div {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+} */
