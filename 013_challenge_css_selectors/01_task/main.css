@@ -1,0 +1,30 @@
+div + p {
+  color: red;
+}
+#three {
+  color: red;
+}
+.styled {
+  color: green;
+}
+[target]{
+  border: solid;
+}
+a:link{
+  color: green;
+}
+a:visited{
+  color: red;
+}
+a:hover{
+  color: yellow;
+}
+a:active{
+  color: black;
+}
+/* p::first-letter{
+  font-size: 30px;
+}
+p::first-line{
+  color: red;
+} */
