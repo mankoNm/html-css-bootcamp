@@ -1,0 +1,21 @@
+div {
+
+  font-family: 'Dancing Script', cursive;
+  color: red;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 1em;
+}
+h1 {
+  text-shadow: 1px 1px;
+}
+a {
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+p{
+  text-indent: 25%;
+  color: red;
+}
