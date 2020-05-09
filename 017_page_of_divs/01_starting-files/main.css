@@ -1,0 +1,21 @@
+* {
+    border: 1px dashed hotpink;
+}
+
+html {
+    font-size: 2rem;
+}
+
+ul {
+    list-style: circle;
+}
+
+li {
+    /*border: 2px solid red;*/
+    border-radius: 50px;
+    display: inline;
+    border: 2px solid black;
+}
+li:hover{
+  background-color: green;
+}
