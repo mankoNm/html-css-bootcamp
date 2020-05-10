@@ -1,0 +1,28 @@
+div{
+  width: 100%;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.one{
+  background-image:url("surf,jpg");
+  /* background-color: red; */
+}
+.two{
+  background-color: blue;
+}
+.three{
+  background-color: black;
+}
+.four{
+  background-color: yellow;
+}
+.five{
+  background-color: hotpink;
+}
+.six{
+  background-color: orange;
+}
+.seven{
+  background-color: grey;
+}
