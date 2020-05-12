@@ -1,0 +1,22 @@
+ul {
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  /* justify-content: center;
+  align-items: center; */
+}
+li {
+  background-color: deepskyblue;
+  /* border: 2px border black; */
+  /* margin: 20 20;
+  padding: 20 20; */
+  width: 100%;
+  border: 2px solid blue;
+
+}
+a {
+  display: block;
+  margin: 20px 0px;
+  text-align: center;
+
+}

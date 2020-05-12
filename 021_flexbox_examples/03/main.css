@@ -1,0 +1,24 @@
+html{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 10px 20px;
+}
+
+nav, main {
+  padding: 10px 20px;
+  border: 2px solid red;
+}
+
+ul{
+  display: flex;
+  flex-flow: row wrap;
+  list-style: none;
+  justify-content: center;
+}
+
+li{
+  padding: 0px 20px;
+}
