@@ -1,0 +1,14 @@
+div{
+  height: 400px;
+  width: 400px;
+  background-color: orange;
+  position: relative;
+}
+div div {
+  position: absolute;
+  top: 200px;
+  right: 30px;
+  height: 40px;
+  width: 40px;
+  background-color: pink;
+}

@@ -1,0 +1,16 @@
+body {
+  border: 2px solid black;
+  position: relative;
+}
+nav{
+  border: 2px solid red;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 150px;
+  height: 500px;
+}
+main {
+  margin: 0px 0px 0px 200px;
+  height: 500px;
+}

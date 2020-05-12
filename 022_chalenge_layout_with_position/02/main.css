@@ -1,0 +1,19 @@
+body {
+  border: 2px solid black;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.relative{
+  position: relative;
+  left: 20px;
+  top: 10px;
+}
+
+div{
+
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+}
