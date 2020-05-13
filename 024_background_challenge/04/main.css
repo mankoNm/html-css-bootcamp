@@ -1,0 +1,5 @@
+body{
+  background-image: url(dog.jpeg);
+  background-size: 230px 500px;
+  background-repeat: repeat-y;
+}

@@ -1,0 +1,13 @@
+html {
+  background-color: red;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  weight: 100vh;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}

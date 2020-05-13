@@ -1,0 +1,10 @@
+div{
+  height: 400px;
+  width: 800px;
+  border: 5px solid orange;
+  background-image: url(dog.jpeg);
+  background-origin: content-box;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 30px;
+}
